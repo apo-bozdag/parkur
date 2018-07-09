@@ -1,0 +1,9 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        GlowMap : Flip Textures/RadKod.jpg
+        LightMap : Flip Textures/RadKod.jpg
+        ColorMap : Flip Textures/RadKod.jpg
+     }
+    AdditionalRenderState {
+    }
+}

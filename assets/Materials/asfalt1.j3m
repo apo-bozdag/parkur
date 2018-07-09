@@ -1,0 +1,9 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        GlowMap : Repeat Textures/Tas/asfalt1.jpg
+        LightMap : Repeat Textures/Tas/asfalt1.jpg
+     }
+    AdditionalRenderState {
+      FaceCull Back
+    }
+}

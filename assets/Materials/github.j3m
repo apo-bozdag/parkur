@@ -1,0 +1,9 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        GlowMap : Flip Repeat Textures/github.jpg
+        LightMap : Flip Repeat Textures/github.jpg
+        ShadowMap0 : Flip Repeat Textures/github.jpg
+     }
+    AdditionalRenderState {
+    }
+}

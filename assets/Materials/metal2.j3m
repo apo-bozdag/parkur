@@ -1,0 +1,10 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        GlowMap : Textures/Metal/metal2.jpg
+        LightMap : Textures/Metal/metal2.jpg
+        ShadowMap0 : Textures/Metal/metal2.jpg
+     }
+    AdditionalRenderState {
+      FaceCull Back
+    }
+}

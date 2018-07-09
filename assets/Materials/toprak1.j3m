@@ -1,0 +1,9 @@
+Material My Material : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        GlowMap : Repeat Textures/Toprak/toprak1.jpg
+        LightMap : Repeat Textures/Toprak/toprak1.jpg
+        ShadowMap0 : Textures/Toprak/toprak1.jpg
+     }
+    AdditionalRenderState {
+    }
+}
